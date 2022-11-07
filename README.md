@@ -1,5 +1,7 @@
-#Primeiro Desafio DIO
+# Primeiro Desafio DIO
 
-##Criar o primeiro repositório público no Git/Github
+### Criar o primeiro repositório público no Git/Github
 
-Para começar com o pé direito e de forma descontraída optei pelo bom e velho Hello World!
+Para começar com o pé direito e de forma descontraída optei pelo bom e velho "Hello World!".
+
+Sejam bem-vindos e que muitos bons projetos sejam adicionados a partir de agora!
